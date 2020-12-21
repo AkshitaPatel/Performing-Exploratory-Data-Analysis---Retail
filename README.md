@@ -1,4 +1,4 @@
-# Performing-Exploratory-Data-Analysis---Sample-Super-Store
+# Performing-Exploratory-Data-Analysis---Retail
 
 Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 
